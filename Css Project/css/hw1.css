@@ -1,0 +1,24 @@
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+header{
+    background-color: lightgrey;
+}
+img{
+    display: none;
+}
+a{
+    color: black;
+}
+.right{
+    background-color: grey;
+}
+p{
+    font-size: 25px;
+}
+h2{
+    color: blue;
+    text-transform: uppercase;
+}
